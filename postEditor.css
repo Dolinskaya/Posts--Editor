@@ -1,0 +1,28 @@
+.ig{
+    background-color: #fafafa;
+    width: 935px;
+    height: 636px;
+    margin: auto;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.ig__logo{
+    height: 35px;
+    width: 176px;
+    background-image: url(42ff52.png);
+    background-repeat: no-repeat;
+    background-position: -177px 0;
+}
+.ig__media{
+    width: 600px;
+}
+.ig__text{
+    width: 300px;
+}
+.ig__text textarea{
+    height: 50%;
+    width: 86%;
+    margin-top: 12%;
+}
